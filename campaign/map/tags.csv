@@ -1,0 +1,1792 @@
+level,tag,name,parent_tag
+country,PHL,"Filipinas (The Philippines)",
+region,ILK,"Ilocos y la Cordillera",
+region,VCG,"Valle de Cagayan",
+region,PCE,"Provincias Centrales",
+region,MMR,"Manila y Morong",
+region,PTS,"Provincias Tagalas del Sur",
+region,BIC,"Provincias Bicolanas",
+region,MYP,"Mindoro y Paragua",
+region,PYN,"Panay y Negros",
+region,CYB,"Cebú y Bohol",
+region,LYS,"Leyte y Samar",
+region,MSE,"Mindanao Septentrional",
+region,MME,"Mindanao Meridional",
+region,AJO,"Archipiélago de Joló",
+province,ILN,"Ilocos Norte",ILK
+province,ILS,"Ilocos Sur",ILK
+province,LUN,"La Unión",ILK
+province,ABR,"Abra",ILK
+province,LEB,"Lepanto y Bontoc",ILK
+province,BEN,"Benguet",ILK
+province,CAG,"Cagayan",VCG
+province,ISA,"Isabela",VCG
+province,NVZ,"Nueva Vizcaya",VCG
+province,BTN,"Islas Batanes",VCG
+province,PAN,"Pangasinán",PCE
+province,ZAM,"Zambales",PCE
+province,TAR,"Tárlac",PCE
+province,PAM,"Pampanga",PCE
+province,BAT,"Bataán",PCE
+province,BUL,"Bulacán",PCE
+province,NEC,"Nueva Écija",PCE
+province,PRI,"Distrito del Príncipe",PCE
+province,MNL,"Manila",MMR
+province,MOR,"Distrito de Morong",MMR
+province,CAV,"Cavite",PTS
+province,LAG,"La Laguna",PTS
+province,BTG,"Batangas",PTS
+province,TAY,"Tayabas",PTS
+province,INF,"Distrito de La Infanta",PTS
+province,ALB,"Albay",BIC
+province,CMN,"Camarines Norte",BIC
+province,CMS,"Camarines Sur",BIC
+province,MAT,"Masbate y Ticao",BIC
+province,MIN,"Mindoro",MYP
+province,PAR,"Paragua",MYP
+province,ILO,"Iloílo",PYN
+province,CAP,"Capiz",PYN
+province,ANT,"Antique",PYN
+province,ROM,"Comandancia de Romblón",PYN
+province,NEO,"Negros Occidental",PYN
+province,NER,"Negros Oriental",PYN
+province,CEB,"Cebú",CYB
+province,BOH,"Bohol",CYB
+province,LEY,"Leyte",LYS
+province,SAM,"Samar",LYS
+province,MIS,"Distrito de Misamis",MSE
+province,LAN,"Distrito de Lanao",MSE
+province,SUR,"Distrito de Surigao",MSE
+province,ZAB,"Distrito de Zamboanga",MME
+province,DAV,"Distrito de Davao",MME
+province,COT,"Distrito de Cotabato",MME
+province,JOL,"Joló (Sulu)",AJO
+town,ABO,"Aborlan",PAR
+town,AIL,"Abra de Ilog",MIN
+town,ABC,"Abucay",BAT
+town,ABL,"Abulug",CAG
+town,ABU,"Abuyog",LEY
+town,ADA,"Adams",ILN
+town,ADN,"Agdangan",TAY
+town,AGL,"Aglipay",NVZ
+town,AGN,"Agno",PAN
+town,AGO,"Agoncillo",BTG
+town,AGG,"Agoo",LUN
+town,AGR,"Aguilar",PAN
+town,AGU,"Aguinaldo",NVZ
+town,AUT,"Agutaya",PAR
+town,AJU,"Ajuy",ILO
+town,AKB,"Akbar",ZAB
+town,ALK,"Al-Barka",ZAB
+town,AAB,"Alabat",TAY
+town,ALL,"Alabel",COT
+town,ALA,"Alamada",COT
+town,AAM,"Alaminos",LAG
+town,ALG,"Alangalang",LEY
+town,ABE,"Albuera",LEY
+town,ALQ,"Alburquerque",BOH
+town,ACL,"Alcala",PAN
+town,ALC,"Alcala",CAG
+town,ACT,"Alcantara",CEB
+town,ACN,"Alcantara",ROM
+town,ALY,"Alcoy",CEB
+town,ALR,"Alegria",CEB
+town,AEG,"Alegria",SUR
+town,ALE,"Aleosan",COT
+town,ALF,"Alfonso",CAV
+town,ACA,"Alfonso Castaneda",NVZ
+town,ALI,"Alfonso Lista",NVZ
+town,AIA,"Aliaga",NEC
+town,AIC,"Alicia",ISA
+town,ACI,"Alicia",BOH
+town,AII,"Alicia",ZAB
+town,AIE,"Alilem",ILS
+town,ALD,"Alimodian",ILO
+town,AIT,"Alitagtag",BTG
+town,ALN,"Allacapan",CAG
+town,AEN,"Allen",SAM
+town,AMG,"Almagro",SAM
+town,AME,"Almeria",LEY
+town,ALS,"Aloguinsan",CEB
+town,ALO,"Aloran",MIS
+town,ALT,"Altavas",CAP
+town,ALU,"Alubijid",MIS
+town,AMD,"Amadeo",CAV
+town,AMB,"Ambaguio",NVZ
+town,AML,"Amlan",NER
+town,AMP,"Ampatuan",COT
+town,AMU,"Amulung",CAG
+town,ANH,"Anahawan",LEY
+town,NAO,"Anao",TAR
+town,AND,"Anda",PAN
+town,NDA,"Anda",BOH
+town,ANG,"Angadanan",ISA
+town,AGT,"Angat",BUL
+town,ANS,"Angeles City",PAM
+town,AOO,"Angono",MOR
+town,ANI,"Anilao",ILO
+town,AIN,"Anini-Y",ANT
+town,ANE,"Antequera",BOH
+town,ANN,"Antipas",COT
+town,APL,"Apalit",PAM
+town,APA,"Aparri",CAG
+town,ARC,"Araceli",PAR
+town,ARA,"Arakan",COT
+town,ARY,"Arayat",PAM
+town,ARG,"Argao",CEB
+town,ARN,"Aringay",LUN
+town,ARI,"Aritao",NVZ
+town,ARO,"Aroroy",MAT
+town,ART,"Arteche",SAM
+town,ASN,"Asingan",PAN
+town,ASI,"Asipulo",NVZ
+town,AST,"Asturias",CEB
+town,ASU,"Asuncion",DAV
+town,ATI,"Atimonan",TAY
+town,ATO,"Atok",BEN
+town,ARR,"Aurora",ISA
+town,AUR,"Aurora",ZAB
+town,AYU,"Ayungon",NER
+town,AAO,"Baao",CMS
+town,BBT,"Babatngon",LEY
+town,BCC,"Bacacay",ALB
+town,BCA,"Bacarra",ILN
+town,BCY,"Baclayon",BOH
+town,BCO,"Bacnotan",LUN
+town,BAC,"Baco",MIN
+town,BCD,"Bacolod",LAN
+town,BKA,"Bacolod-Kalawi",LAN
+town,BCL,"Bacolod City",NEO
+town,BCR,"Bacolor",PAM
+town,ACG,"Bacong",NER
+town,ACO,"Bacoor City",CAV
+town,BCG,"Bacuag",SUR
+town,BCN,"Bacungan",ZAB
+town,BDN,"Badian",CEB
+town,BDI,"Badiangan",ILO
+town,BDC,"Badoc",ILN
+town,BGB,"Bagabag",NVZ
+town,BGC,"Bagac",BAT
+town,BMA,"Bagamanoc",ALB
+town,BGN,"Baganga",DAV
+town,BAG,"Baggao",CAG
+town,BGO,"Bago City",NEO
+town,BGI,"Baguio City",BEN
+town,BGU,"Bagulin",LUN
+town,BGM,"Bagumbayan",COT
+town,BAI,"Bais City",NER
+town,BAK,"Bakun",BEN
+town,BLB,"Balabac",PAR
+town,BBA,"Balabagan",LAN
+town,BGT,"Balagtas",BUL
+town,BLM,"Balamban",CEB
+town,BLA,"Balangiga",SAM
+town,BAA,"Balangkayan",SAM
+town,AAA,"Balaoan",LUN
+town,BSA,"Balasan",ILO
+town,AAT,"Balatan",CMS
+town,BYA,"Balayan",BTG
+town,BAL,"Balbalan",CAG
+town,BLO,"Baleno",MAT
+town,BLR,"Baler",PRI
+town,BLE,"Balete",BTG
+town,BLT,"Balete",CAP
+town,BIA,"Baliangao",MIS
+town,BLG,"Baliguian",ZAB
+town,BAH,"Balilihan",BOH
+town,BID,"Balindong",LAN
+town,BLI,"Balingasag",MIS
+town,BIG,"Balingoan",MIS
+town,BIU,"Baliuag",BUL
+town,BLS,"Ballesteros",CAG
+town,BOI,"Baloi",LAN
+town,BAD,"Balud",MAT
+town,AUN,"Balungao",PAN
+town,BMB,"Bamban",TAR
+town,BAM,"Bambang",NVZ
+town,BTE,"Banate",ILO
+town,BNE,"Banaue",NVZ
+town,BNY,"Banaybanay",DAV
+town,BYO,"Banayoyo",ILS
+town,BXA,"Banga",CAP
+town,BNA,"Banga",COT
+town,BNR,"Bangar",LUN
+town,BAE,"Bangued",ABR
+town,BNU,"Bangui",ILN
+town,BNI,"Bani",PAN
+town,BNS,"Banisilan",COT
+town,ANA,"Banna",ILN
+town,BNN,"Bansalan",DAV
+town,BAN,"Bansud",MIN
+town,ANY,"Bantay",ILS
+town,BTY,"Bantayan",CEB
+town,NTO,"Banton",ROM
+town,RAS,"Baras",MOR
+town,ARS,"Baras",ALB
+town,BRA,"Barbaza",ANT
+town,BRC,"Barcelona",ALB
+town,BRL,"Barili",CEB
+town,BRR,"Barira",COT
+town,BAR,"Barlig",LEB
+town,BRB,"Barobo",SUR
+town,BRN,"Barotac Nuevo",ILO
+town,BVI,"Barotac Viejo",ILO
+town,BRY,"Baroy",LAN
+town,BRO,"Barugo",LEY
+town,BSY,"Basay",NER
+town,BSC,"Basco",BTN
+town,BAS,"Basey",SAM
+town,BSL,"Basilisa",SUR
+town,BSS,"Basista",PAN
+town,BSD,"Basud",CMN
+town,BTD,"Batad",ILO
+town,BTA,"Batan",CAP
+town,BTS,"Batangas City",BTG
+town,BTR,"Bataraza",PAR
+town,BTO,"Bato",CMS
+town,BWA,"Bato",ALB
+town,BZA,"Bato",LEY
+town,ATU,"Batuan",MAT
+town,BTU,"Batuan",BOH
+town,AAN,"Bauan",BTG
+town,AUA,"Bauang",LUN
+town,BKO,"Bauko",LEB
+town,BAU,"Baungon",MIS
+town,BTI,"Bautista",PAN
+town,BYY,"Bay",LAG
+town,BYS,"Bayabas",SUR
+town,BAB,"Bayambang",PAN
+town,BYN,"Bayang",LAN
+town,BAO,"Bayog",ZAB
+town,BYM,"Bayombong",NVZ
+town,BEL,"Belison",ANT
+town,BSO,"Benito Soliven",ISA
+town,BES,"Besao",LEB
+town,BIE,"Bien Unido",BOH
+town,BIL,"Bilar",BOH
+town,BII,"Biliran",LEY
+town,BIN,"Binalbagan",NEO
+town,BNL,"Binalonan",PAN
+town,BIO,"Binangonan",MOR
+town,BND,"Bindoy",NER
+town,BIW,"Bingawan",ILO
+town,BIY,"Binidayan",LAN
+town,BNM,"Binmaley",PAN
+town,BOD,"Binondo",MNL
+town,INU,"Binuangan",MIS
+town,BIR,"Biri",SAM
+town,BOA,"Boac",MIN
+town,BOB,"Bobon",SAM
+town,BCE,"Bocaue",BUL
+town,BOK,"Bokod",BEN
+town,BOL,"Bolinao",PAN
+town,BLY,"Boliney",ABR
+town,BLJ,"Boljoon",CEB
+town,BOM,"Bombon",CMS
+town,BNG,"Bongabon",NEC
+town,BON,"Bongabong",MIN
+town,BNO,"Bongao",JOL
+town,BNF,"Bonifacio",MIS
+town,BNC,"Bontoc",LEY
+town,BNT,"Bontoc",LEB
+town,BOO,"Borbon",CEB
+town,BOS,"Boston",DAV
+town,BOT,"Botolan",ZAM
+town,BER,"Braulio E. Dujali",DAV
+town,BSR,"Brooke's Point",PAR
+town,BBU,"Buadiposo-Buntong",LAN
+town,BUB,"Bubong",LAN
+town,BUC,"Bucay",ABR
+town,BOC,"Bucloc",ABR
+town,BNV,"Buenavista",TAY
+town,BUV,"Buenavista",ILO
+town,BUI,"Buenavista",BOH
+town,BUE,"Buenavista",SUR
+town,BEA,"Buenavista",MIN
+town,BGL,"Bugallon",PAN
+town,BGG,"Bugasong",ANT
+town,BGY,"Buguey",CAG
+town,BGS,"Buguias",BEN
+town,BUH,"Buhi",CMS
+town,BUA,"Bula",CMS
+town,BLC,"Bulacan",BUL
+town,BLL,"Bulalacao",MIN
+town,BLN,"Bulan",ALB
+town,BLD,"Buldon",COT
+town,ULU,"Buluan",COT
+town,BLU,"Bulusan",ALB
+town,BUM,"Bumbaran",LAN
+town,BUN,"Bunawan",SUR
+town,BUR,"Burauen",LEY
+town,BRD,"Burdeos",INF
+town,BRG,"Burgos",ILN
+town,URG,"Burgos",ILS
+town,URO,"Burgos",LUN
+town,BRS,"Burgos",PAN
+town,BUO,"Burgos",ISA
+town,URS,"Burgos",SUR
+town,BRU,"Buruanga",CAP
+town,BST,"Bustos",BUL
+town,BUS,"Busuanga",PAR
+town,BUG,"Butig",LAN
+town,BUT,"Butuan City",SUR
+town,BUU,"Buug",ZAB
+town,CZA,"Caba",LUN
+town,CBG,"Cabagan",ISA
+town,CBT,"Cabanatuan City",NEC
+town,CBA,"Cabangan",ZAM
+town,CBN,"Cabanglasan",MIS
+town,CBR,"Cabarroguis",NVZ
+town,ABA,"Cabatuan",ISA
+town,CTU,"Cabatuan",ILO
+town,CBO,"Cabiao",NEC
+town,CBC,"Cabucgayan",LEY
+town,CUG,"Cabugao",ILS
+town,CBS,"Cabusao",CMS
+town,CBY,"Cabuyao City",LAG
+town,CAD,"Cadiz City",NEO
+town,CAO,"Cagayan de Oro City",MIS
+town,CGY,"Cagayancillo",PAR
+town,CGD,"Cagdianao",SUR
+town,CGW,"Cagwait",SUR
+town,CIB,"Caibiran",LEY
+town,CIN,"Cainta",MOR
+town,CAJ,"Cajidiocan",ROM
+town,CNG,"Calabanga",CMS
+town,CLC,"Calaca",BTG
+town,CMB,"Calamba",MIS
+town,CAL,"Calanasan",CAG
+town,CLO,"Calanogas",LAN
+town,CPE,"Calape",BOH
+town,CSI,"Calasiao",PAN
+town,CGA,"Calatagan",BTG
+town,CLT,"Calatrava",NEO
+town,CTV,"Calatrava",ROM
+town,CLG,"Calauag",TAY
+town,CUN,"Calauan",LAG
+town,CLY,"Calayan",CAG
+town,CLB,"Calbayog City",SAM
+town,CAI,"Calbiga",SAM
+town,CLI,"Calinog",ILO
+town,CLN,"Calintaan",MIN
+town,CAC,"Caloocan City",MNL
+town,CLU,"Calubian",LEY
+town,CUM,"Calumpit",BUL
+town,CAY,"Caluya",ANT
+town,CMA,"Camalaniugan",CAG
+town,CML,"Camalig",ALB
+town,CMI,"Camaligan",CMS
+town,CMG,"Camiling",TAR
+town,CNA,"Can-Avid",SAM
+town,CNM,"Canaman",CMS
+town,CNB,"Candaba",PAM
+town,CAN,"Candelaria",ZAM
+town,CNE,"Candelaria",TAY
+town,CNY,"Candijay",BOH
+town,CND,"Candoni",NEO
+town,CNL,"Canlaon City",NER
+town,CNT,"Cantilan",SUR
+town,COY,"Caoayan",ILS
+town,CPL,"Capalonga",CMN
+town,CPS,"Capas",TAR
+town,CPC,"Capoocan",LEY
+town,CPU,"Capul",SAM
+town,CRG,"Caraga",DAV
+town,CAA,"Caramoan",CMS
+town,CRN,"Caramoran",ALB
+town,CRS,"Carasi",ILN
+town,CRO,"Cardona",MOR
+town,CRA,"Carigara",LEY
+town,CES,"Carles",ILO
+town,CAM,"Carmen",BOH
+town,ARM,"Carmen",CEB
+town,CME,"Carmen",DAV
+town,CRM,"Carmen",COT
+town,CEN,"Carmen",SUR
+town,CAE,"Carmen",SUR
+town,CMO,"Carmona",CAV
+town,CAR,"Carranglan",NEC
+town,CRR,"Carrascal",SUR
+town,CAS,"Casiguran",PRI
+town,CSG,"Casiguran",ALB
+town,CSA,"Castilla",ALB
+town,CSS,"Castillejos",ZAM
+town,CTA,"Cataingan",MAT
+town,CTN,"Catanauan",TAY
+town,CTR,"Catarman",SAM
+town,ATA,"Catarman",MIS
+town,CAT,"Cateel",DAV
+town,CTG,"Catigbian",BOH
+town,CTM,"Catmon",CEB
+town,CTB,"Catubig",SAM
+town,CAU,"Cauayan",NEO
+town,CVN,"Cavinti",LAG
+town,CVT,"Cavite City",CAV
+town,CAW,"Cawayan",MAT
+town,CBU,"Cebu City",CEB
+town,CER,"Cervantes",ILS
+town,ALM,"City of Alaminos",PAN
+town,ANO,"City of Antipolo",MOR
+town,BGA,"City of Balanga",BAT
+town,BTC,"City of Batac",ILN
+town,BAY,"City of Bayawan",NER
+town,BYB,"City of Baybay",LEY
+town,BYG,"City of Bayugan",SUR
+town,NAN,"City of Biñan",LAG
+town,BIS,"City of Bislig",SUR
+town,BOG,"City of Bogo",CEB
+town,BOR,"City of Borongan",SAM
+town,CAB,"City of Cabadbaran",SUR
+town,CLM,"City of Calamba",LAG
+town,CLP,"City of Calapan",MIN
+town,CNO,"City of Candon",ILS
+town,CRC,"City of Carcar",CEB
+town,CTL,"City of Catbalogan",SAM
+town,CYN,"City of Cauayan",ISA
+town,DSM,"City of Dasmariñas",CAV
+town,DIG,"City of Digos",DAV
+town,ELS,"City of El Salvador",MIS
+town,ESC,"City of Escalante",NEO
+town,GAP,"City of Gapan",NEC
+town,GTR,"City of General Trias",CAV
+town,GUI,"City of Guihulngan",NER
+town,HIM,"City of Himamaylan",NEO
+town,ISB,"City of Isabela",ZAB
+town,KBN,"City of Kabankalan",NEO
+town,KID,"City of Kidapawan",COT
+town,KOR,"City of Koronadal",COT
+town,LMT,"City of Lamitan",ZAB
+town,PNS,"City of Las Piñas",MNL
+town,LIG,"City of Ligao",ALB
+town,MSI,"City of Maasin",LEY
+town,MKI,"City of Makati",MNL
+town,ABN,"City of Malabon",MNL
+town,MAL,"City of Malaybalay",MIS
+town,MOO,"City of Malolos",BUL
+town,MDU,"City of Mandaluyong",MNL
+town,MRK,"City of Marikina",MNL
+town,MSB,"City of Masbate",MAT
+town,MTI,"City of Mati",DAV
+town,MEY,"City of Meycauayan",BUL
+town,MUA,"City of Muntinlupa",MNL
+town,NAA,"City of Naga",CEB
+town,NVT,"City of Navotas",MNL
+town,PNB,"City of Panabo",DAV
+town,PAQ,"City of Parañaque",MNL
+town,PSG,"City of Pasig",MNL
+town,PSS,"City of Passi",ILO
+town,SFN,"City of San Fernando",LUN
+town,SED,"City of San Fernando",PAM
+town,SJM,"City of San Jose del Monte",BUL
+town,NJU,"City of San Juan",MNL
+town,SPE,"City of San Pedro",LAG
+town,SOA,"City of Santa Rosa",LAG
+town,SNG,"City of Santiago",ISA
+town,SIP,"City of Sipalay",NEO
+town,SOR,"City of Sorsogon",ALB
+town,TBC,"City of Tabaco",ALB
+town,TAB,"City of Tabuk",CAG
+town,TAC,"City of Tacurong",COT
+town,TGM,"City of Tagum",DAV
+town,TLS,"City of Talisay",NEO
+town,TIS,"City of Talisay",CEB
+town,TNN,"City of Tanauan",BTG
+town,TAD,"City of Tandag",SUR
+town,TNJ,"City of Tanjay",NER
+town,TRL,"City of Tarlac",TAR
+town,TYB,"City of Tayabas",TAY
+town,URD,"City of Urdaneta",PAN
+town,VAL,"City of Valencia",MIS
+town,VAA,"City of Valenzuela",MNL
+town,VCS,"City of Victorias",NEO
+town,VGN,"City of Vigan",ILS
+town,CRI,"Clarin",BOH
+town,CLR,"Clarin",MIS
+town,CLV,"Claver",SUR
+town,CLE,"Claveria",CAG
+town,CLL,"Claveria",MAT
+town,CLA,"Claveria",MIS
+town,COL,"Columbio",COT
+town,CMP,"Compostela",CEB
+town,COM,"Compostela",DAV
+town,CNC,"Concepcion",TAR
+town,CNN,"Concepcion",ILO
+town,COC,"Concepcion",MIS
+town,COE,"Concepcion",ROM
+town,CON,"Conner",CAG
+town,CNS,"Consolacion",CEB
+town,COU,"Corcuera",ROM
+town,CRD,"Cordon",ISA
+town,COD,"Cordova",CEB
+town,COA,"Corella",BOH
+town,COR,"Coron",PAR
+town,COS,"Cortes",BOH
+town,CRT,"Cortes",SUR
+town,CTO,"Cotabato City",COT
+town,CUA,"Cuartero",CAP
+town,CUE,"Cuenca",BTG
+town,CUB,"Culaba",LEY
+town,CLS,"Culasi",ANT
+town,CUL,"Culion",PAR
+town,CUR,"Currimao",ILN
+town,CUY,"Cuyapo",NEC
+town,CYO,"Cuyo",PAR
+town,DNB,"Daanbantayan",CEB
+town,DAE,"Daet",CMN
+town,DAG,"Dagami",LEY
+town,DGH,"Dagohoy",BOH
+town,DGM,"Daguioman",ABR
+town,DGP,"Dagupan City",PAN
+town,DLG,"Dalaguete",CEB
+town,DAM,"Damulog",MIS
+town,DAA,"Danao",BOH
+town,DAO,"Danao City",CEB
+town,DAC,"Dangcagan",MIS
+town,DAN,"Danglas",ABR
+town,DYA,"Dao",CAP
+town,DZA,"Dapa",SUR
+town,DAP,"Dapitan City",ZAB
+town,DAR,"Daraga",ALB
+town,DRM,"Daram",SAM
+town,DAS,"Dasol",PAN
+town,DAB,"Datu Abdullah Sangki",COT
+town,DTA,"Datu Anggal Midtimbang",COT
+town,DBL,"Datu Blah T. Sinsuat",COT
+town,DHO,"Datu Hoffer Ampatuan",COT
+town,DOD,"Datu Odin Sinsuat",COT
+town,DPA,"Datu Paglas",COT
+town,DPI,"Datu Piang",COT
+town,DSL,"Datu Salibo",COT
+town,DSD,"Datu Saudi-Ampatuan",COT
+town,DUN,"Datu Unsay",COT
+town,DAU,"Dauin",NER
+town,DSS,"Dauis",BOH
+town,DVO,"Davao City",DAV
+town,CRE,"Del Carmen",SUR
+town,GAL,"Del Gallego",CMS
+town,DAL,"Delfin Albano",ISA
+town,DIA,"Diadi",NVZ
+town,DIF,"Diffun",NVZ
+town,DIL,"Dilasag",PRI
+town,DSA,"Dimasalang",MAT
+town,DIM,"Dimataling",ZAB
+town,DMO,"Dimiao",BOH
+town,DNT,"Dinagat",SUR
+town,DNL,"Dinalungan",PRI
+town,DNN,"Dinalupihan",BAT
+town,DIN,"Dinapigue",ISA
+town,DNS,"Dinas",ZAB
+town,DNG,"Dingalan",PRI
+town,DNE,"Dingle",ILO
+town,DIS,"Dingras",ILN
+town,DIP,"Dipaculao",PRI
+town,DPL,"Diplahan",ZAB
+town,DPG,"Dipolog City",ZAB
+town,DRA,"Ditsaan-Ramain",LAN
+town,DIV,"Divilacan",ISA
+town,DLR,"Dolores",TAY
+town,DOL,"Dolores",SAM
+town,DLS,"Dolores",ABR
+town,DCA,"Don Carlos",MIS
+town,DMA,"Don Marcelino",DAV
+town,DVI,"Don Victoriano Chiongbian",MIS
+town,DRE,"Doña Remedios Trinidad",BUL
+town,DON,"Donsol",ALB
+town,DUE,"Dueñas",ILO
+town,DRO,"Duero",BOH
+town,DUL,"Dulag",LEY
+town,DME,"Dumaguete City",NER
+town,DMG,"Dumalag",CAP
+town,DML,"Dumalinao",ZAB
+town,DUA,"Dumalneg",ILN
+town,DMS,"Dumangas",ILO
+town,DUG,"Dumanjug",CEB
+town,DUM,"Dumaran",PAR
+town,DMR,"Dumarao",CAP
+town,DMN,"Dumingag",ZAB
+town,DNO,"Dupax del Norte",NVZ
+town,DSU,"Dupax del Sur",NVZ
+town,ECH,"Echague",ISA
+town,ENI,"El Nido",PAR
+town,ENR,"Enrile",CAG
+town,EBN,"Enrique B. Magalona",NEO
+town,EVI,"Enrique Villanueva",NER
+town,ERM,"Ermita",MNL
+town,ESS,"Esperanza",MAT
+town,ESA,"Esperanza",COT
+town,ESP,"Esperanza",SUR
+town,EST,"Estancia",ILO
+town,FAM,"Famy",LAG
+town,FER,"Ferrol",ROM
+town,FLO,"Flora",CAG
+town,FLR,"Floridablanca",PAM
+town,GAB,"Gabaldon",NEC
+town,GAI,"Gainza",CMS
+town,GLM,"Galimuyod",ILS
+town,GMY,"Gamay",SAM
+town,GAM,"Gamu",ISA
+town,GNI,"Ganassi",LAN
+town,GAN,"Gandara",SAM
+town,GAR,"Garchitorena",CMS
+town,GHE,"Garcia Hernandez",BOH
+town,GSN,"Gasan",MIN
+town,GAT,"Gattaran",CAG
+town,GMR,"Gen. Mariano Alvarez",CAV
+town,GSE,"Gen. S.K. Pendatun",COT
+town,GEE,"General Emilio Aguinaldo",CAV
+town,GLU,"General Luna",TAY
+town,GEL,"General Luna",SUR
+town,GMA,"General Macarthur",SAM
+town,GEM,"General Mamerto Natividad",NEC
+town,GNA,"General Nakar",INF
+town,GSA,"General Santos City",COT
+town,GTI,"General Tinio",NEC
+town,GER,"Gerona",TAR
+town,GET,"Getafe",BOH
+town,GIG,"Gigaquit",SUR
+town,GGM,"Gigmoto",ALB
+town,GNT,"Ginatilan",CEB
+town,GIN,"Gingoog City",MIS
+town,GIP,"Giporlos",SAM
+town,GIT,"Gitagum",MIS
+town,GLA,"Glan",COT
+town,GLO,"Gloria",MIN
+town,GOA,"Goa",CMS
+town,GOD,"Godod",ZAB
+town,GON,"Gonzaga",CAG
+town,GGE,"Governor Generoso",DAV
+town,GPI,"Gregorio del Pilar",ILS
+town,GUA,"Guagua",PAM
+town,GUB,"Gubat",ALB
+town,GGN,"Guiguinto",BUL
+town,GMB,"Guimba",NEC
+town,GML,"Guimbal",ILO
+town,GNY,"Guinayangan",TAY
+town,GUN,"Guindulman",BOH
+town,GND,"Guindulungan",COT
+town,GNB,"Guinobatan",ALB
+town,GNS,"Guinsiliban",MIS
+town,GPS,"Guipos",ZAB
+town,GNN,"Guiuan",SAM
+town,GUM,"Gumaca",TAY
+town,GUT,"Gutalac",ZAB
+town,HMO,"Hadji Mohammad Ajul",ZAB
+town,HMU,"Hadji Muhtamad",ZAB
+town,HPA,"Hadji Panglima Tahil",JOL
+town,HGN,"Hagonoy",BUL
+town,HAG,"Hagonoy",DAV
+town,HAM,"Hamtic",ANT
+town,HER,"Hermosa",BAT
+town,HRN,"Hernani",SAM
+town,HIL,"Hilongos",LEY
+town,HIN,"Hinabangan",SAM
+town,HNT,"Hinatuan",SUR
+town,HND,"Hindang",LEY
+town,HIG,"Hingyon",NVZ
+town,HNG,"Hinigaran",NEO
+town,HAN,"Hinoba-An",NEO
+town,HNN,"Hinunangan",LEY
+town,HIU,"Hinundayan",LEY
+town,HUN,"Hungduan",NVZ
+town,IBB,"Iba",ZAM
+town,IBN,"Ibaan",BTG
+town,IBA,"Ibajay",CAP
+town,IGB,"Igbaras",ILO
+town,IGU,"Iguig",CAG
+town,ILA,"Ilagan City",ISA
+town,ILI,"Iligan City",LAN
+town,ILG,"Ilog",NEO
+town,ILL,"Iloilo City",ILO
+town,IME,"Imelda",ZAB
+town,ION,"Impasug-Ong",MIS
+town,IMU,"Imus City",CAV
+town,INB,"Inabanga",BOH
+town,IND,"Indanan",JOL
+town,ING,"Indang",CAV
+town,INA,"Infanta",PAN
+town,INN,"Infanta",INF
+town,INI,"Initao",MIS
+town,INO,"Inopacan",LEY
+town,INT,"Intramuros",MNL
+town,IPI,"Ipil",ZAB
+town,IRI,"Iriga City",CMS
+town,IRO,"Irosin",ALB
+town,ISL,"Isabel",LEY
+town,ISS,"Isabela",NEO
+town,GAS,"Island Garden City of Samal",DAV
+town,ISU,"Isulan",COT
+town,ITB,"Itbayat",BTN
+town,ITO,"Itogon",BEN
+town,IVA,"Ivana",BTN
+town,IVI,"Ivisan",CAP
+town,JBN,"Jabonga",SUR
+town,JAE,"Jaen",NEC
+town,JAG,"Jagna",BOH
+town,JJA,"Jala-Jala",MOR
+town,JAM,"Jamindan",CAP
+town,JAN,"Janiuay",ILO
+town,JAR,"Jaro",LEY
+town,JAS,"Jasaan",MIS
+town,JAV,"Javier",LEY
+town,JIA,"Jiabong",SAM
+town,JIM,"Jimalalud",NER
+town,JMN,"Jimenez",MIS
+town,JIP,"Jipapad",SAM
+town,JLO,"Jolo",JOL
+town,JOM,"Jomalig",INF
+town,JON,"Jones",ISA
+town,JOR,"Jordan",ILO
+town,JAB,"Jose Abad Santos",DAV
+town,JDA,"Jose Dalman",ZAB
+town,JPA,"Jose Panganiban",CMN
+town,JOS,"Josefina",ZAB
+town,JOV,"Jovellar",ALB
+town,JUB,"Juban",ALB
+town,JUL,"Julita",LEY
+town,KBC,"Kabacan",COT
+town,KBS,"Kabasalan",ZAB
+town,KBY,"Kabayan",BEN
+town,KAB,"Kabugao",CAG
+town,KAU,"Kabuntalan",COT
+town,KAD,"Kadingilan",MIS
+town,KAL,"Kalamansig",COT
+town,KLW,"Kalawit",ZAB
+town,KLY,"Kalayaan",LAG
+town,KLN,"Kalayaan",PAR
+town,KLB,"Kalibo",CAP
+town,KLL,"Kalilangan",MIS
+town,KCA,"Kalingalan Caluang",JOL
+town,KAN,"Kananga",LEY
+town,KPI,"Kapai",LAN
+town,KAP,"Kapalong",DAV
+town,KPN,"Kapangan",BEN
+town,KPT,"Kapatagan",LAN
+town,KAA,"Kapatagan",LAN
+town,KAS,"Kasibu",NVZ
+town,KAT,"Katipunan",ZAB
+town,KSW,"Kauswagan",LAN
+town,KAW,"Kawayan",LEY
+town,KWT,"Kawit",CAV
+town,KAY,"Kayapa",NVZ
+town,KIA,"Kiamba",COT
+town,KNG,"Kiangan",NVZ
+town,KBW,"Kibawe",MIS
+town,KIB,"Kiblawan",DAV
+town,KIN,"Kibungan",BEN
+town,KNN,"Kinoguitan",MIS
+town,KIT,"Kitaotao",MIS
+town,KTC,"Kitcharao",SUR
+town,KOL,"Kolambugan",LAN
+town,KUM,"Kumalarang",ZAB
+town,CRL,"La Carlota City",NEO
+town,CST,"La Castellana",NEO
+town,LBR,"La Libertad",NER
+town,LID,"La Libertad",ZAB
+town,PZZ,"La Paz",TAR
+town,PZA,"La Paz",LEY
+town,PXA,"La Paz",ABR
+town,PAZ,"La Paz",SUR
+town,TRD,"La Trinidad",BEN
+town,LAA,"Laak",DAV
+town,LBG,"Labangan",ZAB
+town,LBS,"Labason",ZAB
+town,LAB,"Labo",CMN
+town,LAR,"Labrador",PAN
+town,LAC,"Lacub",ABR
+town,LAI,"Lagangilang",ABR
+town,LGW,"Lagawe",NVZ
+town,LGY,"Lagayan",ABR
+town,LGL,"Lagonglong",MIS
+town,LGN,"Lagonoy",CMS
+town,LGU,"Laguindingan",MIS
+town,LSE,"Lake Sebu",COT
+town,LAK,"Lakewood",ZAB
+town,LLO,"Lal-Lo",CAG
+town,LAL,"Lala",LAN
+town,LMB,"Lambayong",COT
+town,LAM,"Lambunao",ILO
+town,LAT,"Lamut",NVZ
+town,LAD,"Langiden",ABR
+town,LNG,"Languyan",JOL
+town,LNT,"Lantapan",MIS
+town,LNN,"Lantawan",ZAB
+town,LNZ,"Lanuza",SUR
+town,AOA,"Laoac",PAN
+town,LGG,"Laoag City",ILN
+town,LAO,"Laoang",SAM
+town,LPN,"Lapinig",SAM
+town,LLP,"Lapu-Lapu City",CEB
+town,LAP,"Lapuyan",ZAB
+town,LRN,"Larena",NER
+town,NAV,"Las Navas",SAM
+town,NIE,"Las Nieves",SUR
+town,LAS,"Lasam",CAG
+town,LAU,"Laua-An",ANT
+town,LRR,"Laur",NEC
+town,LRL,"Laurel",BTG
+town,LAV,"Lavezares",SAM
+town,LAW,"Lawaan",SAM
+town,LAZ,"Lazi",NER
+town,LBK,"Lebak",COT
+town,LES,"Leganes",ILO
+town,LEG,"Legazpi City",ALB
+town,LMR,"Lemery",BTG
+town,LEM,"Lemery",ILO
+town,LEO,"Leon",ILO
+town,LYT,"Leyte",LEY
+town,LEZ,"Lezo",CAP
+town,IAN,"Lian",BTG
+town,LIA,"Lianga",SUR
+town,LBC,"Libacao",CAP
+town,LGO,"Libagon",LEY
+town,LBD,"Libertad",ANT
+town,LIE,"Libertad",MIS
+town,LBJ,"Libjo",SUR
+town,LIB,"Libmanan",CMS
+town,LIO,"Libon",ALB
+town,LBN,"Libona",MIS
+town,LIU,"Libungan",COT
+town,LIC,"Licab",NEC
+town,LBA,"Licuan-Baay",ABR
+town,LDL,"Lidlidda",ILS
+town,LYA,"Lila",BOH
+town,LLW,"Liliw",LAG
+town,LOA,"Liloan",CEB
+town,LLN,"Liloan",LEY
+town,LIL,"Liloy",ZAB
+town,LMS,"Limasawa",LEY
+town,LIM,"Limay",BAT
+town,LNM,"Linamon",LAN
+town,LNP,"Linapacan",PAR
+town,LIY,"Lingayen",PAN
+town,LIN,"Lingig",SUR
+town,LIP,"Lipa City",BTG
+town,LLA,"Llanera",NEC
+town,LLR,"Llorente",SAM
+town,LYY,"Loay",BOH
+town,LOB,"Lobo",BTG
+town,LOC,"Loboc",BOH
+town,LOO,"Looc",MIN
+town,LCC,"Looc",ROM
+town,LON,"Loon",BOH
+town,LVE,"Lope de Vega",SAM
+town,LOP,"Lopez",TAY
+town,LJA,"Lopez Jaena",MIS
+town,LOR,"Loreto",SUR
+town,LRT,"Loreto",SUR
+town,AOS,"Los Baños",LAG
+town,LUA,"Luba",ABR
+town,LUG,"Lubang",MIN
+town,LBO,"Lubao",PAM
+town,LBU,"Lubuagan",CAG
+town,LUC,"Lucban",TAY
+town,LCN,"Lucena City",TAY
+town,LGT,"Lugait",MIS
+town,LGS,"Lugus",JOL
+town,LUI,"Luisiana",LAG
+town,LUB,"Lumba-Bayabao",LAN
+town,LMU,"Lumbaca-Unayan",LAN
+town,LUM,"Lumban",LAG
+town,LMN,"Lumbatan",LAN
+town,LME,"Lumbayanague",LAN
+town,LZA,"Luna",LUN
+town,UNA,"Luna",ISA
+town,LNA,"Luna",CAG
+town,LPO,"Lupao",NEC
+town,LPI,"Lupi",CMS
+town,LUP,"Lupon",DAV
+town,LUT,"Lutayan",COT
+town,LUU,"Luuk",JOL
+town,MLA,"M'Lang",COT
+town,MAO,"Ma-Ayon",CAP
+town,MAA,"Maasim",COT
+town,AAS,"Maasin",ILO
+town,MBL,"Mabalacat City",PAM
+town,MAB,"Mabinay",NER
+town,MBN,"Mabini",PAN
+town,ABI,"Mabini",BTG
+town,MNI,"Mabini",BOH
+town,MBI,"Mabini",DAV
+town,MBT,"Mabitac",LAG
+town,MBH,"Mabuhay",ZAB
+town,MCB,"Macabebe",PAM
+town,MCL,"Macalelon",TAY
+town,MCR,"Macarthur",LEY
+town,MCO,"Maco",DAV
+town,MAC,"Maconacon",ISA
+town,MCN,"Macrohon",LEY
+town,MDL,"Madalag",CAP
+town,MDA,"Madalum",LAN
+town,MDM,"Madamba",LAN
+town,MAD,"Maddela",NVZ
+town,MDR,"Madrid",SUR
+town,MDI,"Madridejos",CEB
+town,MGG,"Magalang",PAM
+town,MAE,"Magallanes",CAV
+town,MGL,"Magallanes",ALB
+town,MGE,"Magallanes",SUR
+town,MGR,"Magarao",CMS
+town,MDE,"Magdalena",LAG
+town,MGD,"Magdiwang",ROM
+town,MAG,"Magpet",COT
+town,MSA,"Magsaysay",LAN
+town,MGA,"Magsaysay",MIS
+town,MGY,"Magsaysay",DAV
+town,MGS,"Magsaysay",MIN
+town,MSY,"Magsaysay",PAR
+town,MGI,"Magsingal",ILS
+town,MGN,"Maguing",LAN
+town,MAH,"Mahaplag",LEY
+town,MHT,"Mahatao",BTN
+town,MHY,"Mahayag",ZAB
+town,MHN,"Mahinog",MIS
+town,MGO,"Maigo",LAN
+town,MMG,"Maimbung",JOL
+town,MII,"Mainit",SUR
+town,MAI,"Maitum",COT
+town,MAJ,"Majayjay",LAG
+town,MKT,"Makato",CAP
+town,MAK,"Makilala",COT
+town,MBA,"Malabang",LAN
+town,MLC,"Malabuyoc",CEB
+town,MLL,"Malalag",DAV
+town,MNS,"Malangas",ZAB
+town,MLP,"Malapatan",COT
+town,MLS,"Malasiqui",PAN
+town,MLE,"Malate",MNL
+town,MLY,"Malay",CAP
+town,MLB,"Malibcong",ABR
+town,MIP,"Malilipot",ALB
+town,MLM,"Malimono",SUR
+town,MIO,"Malinao",ALB
+town,MLO,"Malinao",CAP
+town,MLT,"Malita",DAV
+town,MIB,"Malitbog",LEY
+town,MLG,"Malitbog",MIS
+town,MLI,"Mallig",ISA
+town,MLN,"Malungon",COT
+town,MLU,"Maluso",ZAB
+town,MLV,"Malvar",BTG
+town,MMS,"Mamasapano",COT
+town,MMO,"Mambajao",MIS
+town,MAM,"Mamburao",MIN
+town,MMB,"Mambusao",CAP
+town,MNB,"Manabo",ABR
+town,AAG,"Manaoag",PAN
+town,MNP,"Manapla",NEO
+town,MNY,"Manay",DAV
+town,MND,"Mandaon",MAT
+town,MNE,"Mandaue City",CEB
+town,MLD,"Mangaldan",PAN
+town,MNG,"Mangatarem",PAN
+town,MNU,"Mangudadatu",COT
+town,MIT,"Manito",ALB
+town,MNJ,"Manjuyod",NER
+town,MNA,"Mankayan",BEN
+town,MFO,"Manolo Fortich",MIS
+town,MAN,"Mansalay",MIN
+town,MNO,"Manticao",MIS
+town,MNK,"Manukan",ZAB
+town,MAP,"Mapanas",SAM
+town,MPD,"Mapandan",PAN
+town,MPN,"Mapun",JOL
+town,MRB,"Marabut",SAM
+town,MRO,"Maragondon",CAV
+town,MAR,"Maragusan",DAV
+town,MRM,"Maramag",MIS
+town,MRT,"Marantao",LAN
+town,MRW,"Marawi City",LAN
+town,MRC,"Marcos",ILN
+town,MRS,"Margosatubig",ZAB
+town,MRI,"Maria",NER
+town,MRA,"Maria Aurora",PRI
+town,MRJ,"Maribojoc",BOH
+town,MRH,"Marihatag",SUR
+town,MRL,"Marilao",BUL
+town,MRP,"Maripipi",LEY
+town,MRV,"Mariveles",BAT
+town,MRG,"Marogong",LAN
+town,MSL,"Masantol",PAM
+town,MSN,"Masinloc",ZAM
+town,MSU,"Masiu",LAN
+town,MAS,"Maslog",SAM
+town,MTS,"Mataasnakahoy",BTG
+town,MTB,"Matag-Ob",LEY
+town,MTL,"Matalam",COT
+town,MTM,"Matalom",LEY
+town,MTN,"Matanao",DAV
+town,MTA,"Matanog",COT
+town,MTO,"Matnog",ALB
+town,MTG,"Matuguinao",SAM
+town,MTU,"Matungao",LAN
+town,MAU,"Mauban",TAY
+town,MAW,"Mawab",DAV
+town,MYN,"Mayantoc",TAR
+town,MYD,"Maydolong",SAM
+town,MYR,"Mayorga",LEY
+town,MAY,"Mayoyao",NVZ
+town,MDN,"Medellin",CEB
+town,MED,"Medina",MIS
+town,MEN,"Mendez",CAV
+town,MER,"Mercedes",CMN
+town,MES,"Mercedes",SAM
+town,MRD,"Merida",LEY
+town,MEX,"Mexico",PAM
+town,MIA,"Miagao",ILO
+town,MDS,"Midsalip",ZAB
+town,MID,"Midsayap",COT
+town,MIL,"Milagros",MAT
+town,MLR,"Milaor",CMS
+town,MZA,"Mina",ILO
+town,MNC,"Minalabac",CMS
+town,IAL,"Minalin",PAM
+town,MIG,"Minglanilla",CEB
+town,MBO,"Moalboal",CEB
+town,MOB,"Mobo",MAT
+town,MOG,"Mogpog",MIN
+town,MPA,"Moises Padilla",NEO
+town,MOL,"Molave",ZAB
+town,MOA,"Moncada",TAR
+town,MNN,"Mondragon",SAM
+town,MON,"Monkayo",DAV
+town,MNR,"Monreal",MAT
+town,MNT,"Montevista",DAV
+town,MRN,"Morong",BAT
+town,ORG,"Morong",MOR
+town,MOT,"Motiong",SAM
+town,MUL,"Mulanay",TAY
+town,MUO,"Mulondo",LAN
+town,MUN,"Munai",LAN
+town,MUR,"Murcia",NEO
+town,MUT,"Mutia",ZAB
+town,NWN,"Naawan",MIS
+town,NBS,"Nabas",CAP
+town,NBU,"Nabua",CMS
+town,NAB,"Nabunturan",DAV
+town,NGA,"Naga",ZAB
+town,AGA,"Naga City",CMS
+town,NGB,"Nagbukel",ILS
+town,NGC,"Nagcarlan",LAG
+town,NAG,"Nagtipunan",NVZ
+town,NGN,"Naguilian",LUN
+town,NGL,"Naguilian",ISA
+town,NAI,"Naic",CAV
+town,NAM,"Nampicuan",NEC
+town,NAR,"Narra",PAR
+town,NRV,"Narvacan",ILS
+town,NSP,"Nasipit",SUR
+town,NAS,"Nasugbu",BTG
+town,NTV,"Natividad",PAN
+town,NAT,"Natonin",LEB
+town,NAU,"Naujan",MIN
+town,NVL,"Naval",LEY
+town,NBA,"New Bataan",DAV
+town,NCO,"New Corella",DAV
+town,NLU,"New Lucena",ILO
+town,NWA,"New Washington",CAP
+town,NRL,"Norala",COT
+town,NKA,"Northern Kabuntalan",COT
+town,NOR,"Norzagaray",BUL
+town,NOV,"Noveleta",CAV
+town,NUE,"Nueva Era",ILN
+town,NVA,"Nueva Valencia",ILO
+town,NUM,"Numancia",CAP
+town,NUN,"Nunungan",LAN
+town,OAS,"Oas",ALB
+town,OBA,"Obando",BUL
+town,OCA,"Ocampo",CMS
+town,ODI,"Odiongan",ROM
+town,OPA,"Old Panamao",JOL
+town,OLO,"Olongapo City",ZAM
+town,OLU,"Olutanga",ZAB
+town,OMA,"Omar",JOL
+town,OPO,"Opol",MIS
+town,ORN,"Orani",BAT
+town,ORA,"Oras",SAM
+town,ORI,"Orion",BAT
+town,ORM,"Ormoc City",LEY
+town,ORO,"Oroquieta City",MIS
+town,OSL,"Oslob",CEB
+town,OTO,"Oton",ILO
+town,OZA,"Ozamis City",MIS
+town,PAC,"Paco",MNL
+town,PDD,"Padada",DAV
+town,PBU,"Padre Burgos",TAY
+town,PBR,"Padre Burgos",LEY
+town,PGR,"Padre Garcia",BTG
+town,PAE,"Paete",LAG
+town,PAG,"Pagadian City",ZAB
+town,PGG,"Pagagawan",COT
+town,PGL,"Pagalungan",COT
+town,PGY,"Pagayawan",LAN
+town,PGB,"Pagbilao",TAY
+town,PGT,"Paglat",COT
+town,PGS,"Pagsanghan",SAM
+town,PGN,"Pagsanjan",LAG
+town,PGD,"Pagudpud",ILN
+town,PAK,"Pakil",LAG
+town,PAA,"Palanan",ISA
+town,PLS,"Palanas",MAT
+town,PLP,"Palapag",SAM
+town,PLG,"Palauig",ZAM
+town,PLY,"Palayan City",NEC
+town,PAL,"Palimbang",COT
+town,PAO,"Palo",LEY
+town,PLM,"Palompon",LEY
+town,PLN,"Paluan",MIN
+town,PMB,"Pambujan",SAM
+town,PAP,"Pamplona",CAG
+town,PML,"Pamplona",CMS
+town,PMP,"Pamplona",NER
+town,AON,"Panaon",MIS
+town,PNY,"Panay",CAP
+town,PNC,"Pandacan",MNL
+town,PDA,"Pandag",COT
+town,PNI,"Pandami",JOL
+town,PAD,"Pandan",ALB
+town,PND,"Pandan",ANT
+town,ADI,"Pandi",BUL
+town,PAB,"Panganiban",ALB
+town,PNG,"Pangantucan",MIS
+town,PGI,"Pangil",LAG
+town,PGO,"Panglao",BOH
+town,PES,"Panglima Estino",JOL
+town,PSU,"Panglima Sugala",JOL
+town,PAU,"Pangutaran",JOL
+town,PNQ,"Paniqui",TAR
+town,PAI,"Panitan",CAP
+town,PNN,"Pantabangan",NEC
+town,PRT,"Pantao Ragat",LAN
+town,PTR,"Pantar",LAN
+town,PNT,"Pantukan",DAV
+town,PNK,"Panukulan",INF
+town,PYY,"Paoay",ILN
+town,PMG,"Paombong",BUL
+town,PRE,"Paracale",CMN
+town,PRC,"Paracelis",LEB
+town,PRN,"Paranas",SAM
+town,PRG,"Parang",COT
+town,PRA,"Parang",JOL
+town,PSC,"Pasacao",CMS
+town,PSY,"Pasay City",MNL
+town,PAS,"Pasil",CAG
+town,PST,"Pastrana",LEY
+town,PSQ,"Pasuquin",ILN
+town,PYA,"Pata",JOL
+town,PTE,"Pateros",MNL
+town,PAT,"Patikul",JOL
+town,PTA,"Patnanungan",INF
+town,PTN,"Patnongon",ANT
+town,PAV,"Pavia",ILO
+town,PAY,"Payao",ZAB
+town,PEN,"Peñablanca",CAG
+town,PNR,"Peñaranda",NEC
+town,PEA,"Peñarrubia",ABR
+town,PER,"Perez",TAY
+town,PGP,"Piagapo",LAN
+town,PIA,"Piat",CAG
+town,PIC,"Picong",LAN
+town,PID,"Piddig",ILN
+town,PDG,"Pidigan",ABR
+town,PIG,"Pigkawayan",COT
+town,PIK,"Pikit",COT
+town,PSA,"Pila",LAG
+town,PWA,"Pilar",BAT
+town,PIL,"Pilar",ALB
+town,PLR,"Pilar",CAP
+town,PIR,"Pilar",BOH
+town,PVA,"Pilar",CEB
+town,ILR,"Pilar",ABR
+town,IAR,"Pilar",SUR
+town,PLI,"Pili",CMS
+town,PII,"Pililla",MOR
+town,PNO,"Pinabacdao",SAM
+town,PNM,"Pinamalayan",MIN
+town,PIM,"Pinamungahan",CEB
+town,PNA,"Piñan",ZAB
+town,PNL,"Pinili",ILN
+town,PIU,"Pintuyan",LEY
+town,PIN,"Pinukpuk",CAG
+town,PDU,"Pio Duran",ALB
+town,PVI,"Pio V. Corpuz",MAT
+town,PIT,"Pitogo",TAY
+town,PTG,"Pitogo",ZAB
+town,PLA,"Placer",MAT
+town,PLC,"Placer",SUR
+town,PLE,"Plaridel",BUL
+town,PRD,"Plaridel",TAY
+town,PLD,"Plaridel",MIS
+town,POA,"Pola",MIN
+town,PLO,"Polanco",ZAB
+town,POI,"Polangui",ALB
+town,PLL,"Polillo",INF
+town,POL,"Polomolok",COT
+town,POT,"Pontevedra",CAP
+town,PON,"Pontevedra",NEO
+town,PBA,"Poona Bayabao",LAN
+town,PPI,"Poona Piagapo",LAN
+town,POR,"Porac",PAM
+town,POO,"Poro",CEB
+town,POE,"Port Area",MNL
+town,PTT,"Pototan",ILO
+town,POZ,"Pozorrubio",PAN
+town,PCA,"Pres. Carlos P. Garcia",BOH
+town,PMA,"Pres. Manuel A. Roxas",ZAB
+town,PRS,"Presentacion",CMS
+town,PQU,"President Quirino",COT
+town,PRX,"President Roxas",CAP
+town,PRR,"President Roxas",COT
+town,PDI,"Prieto Diaz",ALB
+town,PRO,"Prosperidad",SUR
+town,PUA,"Pualas",LAN
+town,PUD,"Pudtol",CAG
+town,PGA,"Puerto Galera",MIN
+town,PPR,"Puerto Princesa City",PAR
+town,PUG,"Pugo",LUN
+town,PUL,"Pulilan",BUL
+town,PUN,"Pulupandan",NEO
+town,PUR,"Pura",TAR
+town,QUN,"Quezon",ISA
+town,QUZ,"Quezon",NVZ
+town,QEO,"Quezon",NEC
+town,QEZ,"Quezon",TAY
+town,QZN,"Quezon",MIS
+town,QUE,"Quezon",PAR
+town,QUO,"Quezon City",MNL
+town,QPO,"Quiapo",MNL
+town,QNP,"Quinapondan",SAM
+town,QUI,"Quirino",ILS
+town,QRN,"Quirino",ISA
+town,RAG,"Ragay",CMS
+town,RBU,"Rajah Buayan",COT
+town,RAM,"Ramon",ISA
+town,RMA,"Ramon Magsaysay",ZAB
+town,RMS,"Ramos",TAR
+town,RRA,"Rapu-Rapu",ALB
+town,REA,"Real",INF
+town,RME,"Reina Mercedes",ISA
+town,RTE,"Remedios T. Romualdez",SUR
+town,RZL,"Rizal",CAG
+town,RZA,"Rizal",NEC
+town,IZA,"Rizal",LAG
+town,RAL,"Rizal",ZAB
+town,RIA,"Rizal",CAG
+town,RIL,"Rizal",MIN
+town,RIZ,"Rizal",PAR
+town,ROD,"Rodriguez",MOR
+town,RMB,"Romblon",ROM
+town,RON,"Ronda",CEB
+town,RSL,"Rosales",PAN
+town,RSO,"Rosario",LUN
+town,RSR,"Rosario",BTG
+town,ROR,"Rosario",CAV
+town,ROO,"Rosario",SAM
+town,ROS,"Rosario",SUR
+town,RLI,"Roseller Lim",ZAB
+town,RXS,"Roxas",ISA
+town,ROA,"Roxas",MIN
+town,ROX,"Roxas",PAR
+town,RXA,"Roxas City",CAP
+town,SBA,"Sabangan",LEB
+town,SLA,"Sablan",BEN
+town,SAB,"Sablayan",MIN
+town,ABT,"Sabtang",BTN
+town,SAD,"Sadanga",LEB
+town,AGD,"Sagada",LEB
+town,AGY,"Sagay",MIS
+town,SAG,"Sagay City",NEO
+town,SGB,"Sagbayan",BOH
+town,SGN,"Sagñay",CMS
+town,SAY,"Saguday",NVZ
+town,SGR,"Saguiaran",LAN
+town,SNB,"Saint Bernard",LEY
+town,SLY,"Salay",MIS
+town,SLD,"Salcedo",ILS
+town,SLC,"Salcedo",SAM
+town,SLL,"Sallapadan",ABR
+town,SUG,"Salug",ZAB
+town,SLV,"Salvador",LAN
+town,SBE,"Salvador Benedicto",NEO
+town,AMA,"Samal",BAT
+town,SMB,"Samboan",CEB
+town,SMP,"Sampaloc",TAY
+town,SPL,"Sampaloc",MNL
+town,SAU,"San Agustin",ISA
+town,SGT,"San Agustin",SUR
+town,SGS,"San Agustin",ROM
+town,SAE,"San Andres",TAY
+town,SAS,"San Andres",ALB
+town,SDR,"San Andres",ROM
+town,SAO,"San Antonio",NEC
+town,SAT,"San Antonio",ZAM
+town,SOI,"San Antonio",TAY
+town,AAI,"San Antonio",SAM
+town,SBI,"San Benito",SUR
+town,SCS,"San Carlos City",PAN
+town,SNC,"San Carlos City",NEO
+town,SCL,"San Clemente",TAR
+town,SDI,"San Dionisio",ILO
+town,SEM,"San Emilio",ILS
+town,SEE,"San Enrique",ILO
+town,SNQ,"San Enrique",NEO
+town,SET,"San Esteban",ILS
+town,SFB,"San Fabian",PAN
+town,SFL,"San Felipe",ZAM
+town,SFD,"San Fernando",CMS
+town,SER,"San Fernando",MAT
+town,SEA,"San Fernando",CEB
+town,SFE,"San Fernando",MIS
+town,SFO,"San Fernando",ROM
+town,SAF,"San Francisco",TAY
+town,SFA,"San Francisco",CEB
+town,SFI,"San Francisco",LEY
+town,SFR,"San Francisco",SUR
+town,SFC,"San Francisco",SUR
+town,SGA,"San Gabriel",LUN
+town,SGU,"San Guillermo",ISA
+town,SIF,"San Ildefonso",ILS
+town,SNL,"San Ildefonso",BUL
+town,SII,"San Isidro",ISA
+town,SSR,"San Isidro",NEC
+town,SID,"San Isidro",BOH
+town,SND,"San Isidro",LEY
+town,SAI,"San Isidro",SAM
+town,SNS,"San Isidro",DAV
+town,SIS,"San Isidro",DAV
+town,AIS,"San Isidro",ABR
+town,SSD,"San Isidro",SUR
+town,SJI,"San Jacinto",PAN
+town,SJC,"San Jacinto",MAT
+town,SJQ,"San Joaquin",ILO
+town,SJR,"San Jorge",SAM
+town,SAJ,"San Jose",TAR
+town,SOE,"San Jose",BTG
+town,SSE,"San Jose",CMS
+town,AJE,"San Jose",ANT
+town,AJS,"San Jose",NER
+town,SJE,"San Jose",SAM
+town,AOE,"San Jose",SUR
+town,SJO,"San Jose",MIN
+town,ASE,"San Jose",ROM
+town,SNJ,"San Jose City",NEC
+town,SJS,"San Jose de Buan",SAM
+town,SJN,"San Juan",ILS
+town,ANU,"San Juan",LUN
+town,SJU,"San Juan",BTG
+town,AJA,"San Juan",NER
+town,AJN,"San Juan",LEY
+town,ANJ,"San Juan",ABR
+town,SJL,"San Julian",SAM
+town,SEO,"San Leonardo",NEC
+town,SLR,"San Lorenzo",ILO
+town,SLE,"San Lorenzo Ruiz",CMN
+town,SLI,"San Luis",PAM
+town,SAL,"San Luis",PRI
+town,SUI,"San Luis",BTG
+town,SLU,"San Luis",SUR
+town,SMN,"San Manuel",PAN
+town,SME,"San Manuel",ISA
+town,SUE,"San Manuel",TAR
+town,SMR,"San Marcelino",ZAM
+town,SMA,"San Mariano",ISA
+town,SMT,"San Mateo",ISA
+town,SMO,"San Mateo",MOR
+town,SNM,"San Miguel",BUL
+town,SMG,"San Miguel",ALB
+town,SIE,"San Miguel",ILO
+town,SNE,"San Miguel",BOH
+town,SNU,"San Miguel",LEY
+town,SIU,"San Miguel",ZAB
+town,SGE,"San Miguel",MNL
+town,SMI,"San Miguel",SUR
+town,SRC,"San Narciso",ZAM
+town,SNA,"San Narciso",TAY
+town,ANC,"San Nicolas",ILN
+town,SNN,"San Nicolas",PAN
+town,ANL,"San Nicolas",BTG
+town,AIO,"San Nicolas",MNL
+town,SPA,"San Pablo",ISA
+town,SNP,"San Pablo",ZAB
+town,SPB,"San Pablo City",LAG
+town,SPS,"San Pascual",BTG
+town,SAP,"San Pascual",MAT
+town,SPO,"San Policarpo",SAM
+town,SQU,"San Quintin",PAN
+town,SAQ,"San Quintin",ABR
+town,SRF,"San Rafael",BUL
+town,ANR,"San Rafael",ILO
+town,SRE,"San Remigio",ANT
+town,SEI,"San Remigio",CEB
+town,SRD,"San Ricardo",LEY
+town,SRO,"San Roque",SAM
+town,SSB,"San Sebastian",SAM
+town,SSM,"San Simon",PAM
+town,STE,"San Teodoro",MIN
+town,SNV,"San Vicente",ILS
+town,SAV,"San Vicente",CMN
+town,SVC,"San Vicente",SAM
+town,SVI,"San Vicente",PAR
+town,SNZ,"Sanchez-Mira",CAG
+town,NTA,"Santa",ILS
+town,SAN,"Santa Ana",CAG
+town,ATN,"Santa Ana",PAM
+town,NTN,"Santa Ana",MNL
+town,SBB,"Santa Barbara",PAN
+town,STB,"Santa Barbara",ILO
+town,SCT,"Santa Catalina",ILS
+town,SCA,"Santa Catalina",NER
+town,SAZ,"Santa Cruz",ILS
+town,SAC,"Santa Cruz",ZAM
+town,STZ,"Santa Cruz",LAG
+town,SNT,"Santa Cruz",DAV
+town,SCU,"Santa Cruz",MNL
+town,SCZ,"Santa Cruz",MIN
+town,SCR,"Santa Cruz",MIN
+town,SEL,"Santa Elena",CMN
+town,SNF,"Santa Fe",NVZ
+town,ATF,"Santa Fe",CEB
+town,ANF,"Santa Fe",LEY
+town,STF,"Santa Fe",ROM
+town,SIG,"Santa Ignacia",TAR
+town,SJA,"Santa Josefa",SUR
+town,STU,"Santa Lucia",ILS
+town,STG,"Santa Magdalena",ALB
+town,STC,"Santa Marcela",CAG
+town,SNR,"Santa Margarita",SAM
+town,ANM,"Santa Maria",ILS
+town,ATR,"Santa Maria",PAN
+town,STA,"Santa Maria",ISA
+town,STI,"Santa Maria",BUL
+town,STM,"Santa Maria",LAG
+town,SAA,"Santa Maria",DAV
+town,ATM,"Santa Maria",ROM
+town,SMC,"Santa Monica",SUR
+town,SPR,"Santa Praxedes",CAG
+town,SRT,"Santa Rita",PAM
+town,SRI,"Santa Rita",SAM
+town,SRS,"Santa Rosa",NEC
+town,STR,"Santa Teresita",CAG
+town,SST,"Santa Teresita",BTG
+town,SDE,"Santander",CEB
+town,SGO,"Santiago",ILS
+town,SNO,"Santiago",SUR
+town,STD,"Santo Domingo",ILS
+town,SDO,"Santo Domingo",NEC
+town,SDM,"Santo Domingo",ALB
+town,SNI,"Santo Niño",CAG
+town,AOI,"Santo Niño",SAM
+town,SON,"Santo Niño",COT
+town,SOT,"Santo Tomas",LUN
+town,ATS,"Santo Tomas",PAN
+town,STT,"Santo Tomas",ISA
+town,ATT,"Santo Tomas",PAM
+town,STS,"Santo Tomas",BTG
+town,STO,"Santo Tomas",DAV
+town,STL,"Santol",LUN
+town,SSP,"Sapa-Sapa",JOL
+town,SPD,"Sapad",LAN
+town,SDA,"Sapang Dalaga",MIS
+town,SPI,"Sapi-An",CAP
+town,SRA,"Sara",ILO
+town,SRN,"Sarangani",DAV
+town,SAR,"Sariaya",TAY
+town,SRR,"Sarrat",ILN
+town,SSU,"Sasmuan",PAM
+town,SMU,"Science City of Muñoz",NEC
+town,SEB,"Sebaste",ANT
+town,SEN,"Sen. Ninoy Aquino",COT
+town,SOS,"Sergio Osmeña Sr.",ZAB
+town,SEV,"Sevilla",BOH
+town,SHA,"Shariff Aguak",COT
+town,SSA,"Shariff Saydona Mustapha",COT
+town,SSI,"Siasi",JOL
+town,STN,"Siaton",NER
+town,SYY,"Siay",ZAB
+town,SIA,"Siayan",ZAB
+town,SIB,"Sibagat",SUR
+town,SBL,"Sibalom",ANT
+town,SBO,"Sibonga",CEB
+town,SBC,"Sibuco",ZAB
+town,SBN,"Sibulan",NER
+town,SBG,"Sibunag",ILO
+town,SBD,"Sibutad",ZAB
+town,SBT,"Sibutu",JOL
+town,SBU,"Sierra Bullones",BOH
+town,SGY,"Sigay",ILS
+town,SGM,"Sigma",CAP
+town,SIK,"Sikatuna",BOH
+town,SLG,"Silago",LEY
+town,SLN,"Silang",CAV
+town,SIL,"Silay City",NEO
+town,SLO,"Silvino Lobos",SAM
+town,SIM,"Simunul",JOL
+town,SIC,"Sinacaban",MIS
+town,SIT,"Sinait",ILS
+town,SIN,"Sindangan",ZAB
+town,INL,"Siniloan",LAG
+town,SIO,"Siocon",ZAB
+town,SPC,"Sipocot",CMS
+town,SIQ,"Siquijor",NER
+town,SIR,"Sirawai",ZAB
+town,SRM,"Siruma",CMS
+town,SSN,"Sison",PAN
+town,SSO,"Sison",SUR
+town,STK,"Sitangkai",JOL
+town,SCO,"Socorro",SUR
+town,SOC,"Socorro",MIN
+town,SES,"Sofronio Española",PAR
+town,SGD,"Sogod",CEB
+town,SOG,"Sogod",LEY
+town,SOL,"Solana",CAG
+town,SOO,"Solano",NVZ
+town,SLS,"Solsona",ILN
+town,SOM,"Sominot",ZAB
+town,SOU,"South Ubian",JOL
+town,SUP,"South Upi",COT
+town,SUA,"Sual",PAN
+town,SUB,"Subic",ZAM
+town,SUD,"Sudipen",LUN
+town,SUO,"Sugbongcogon",MIS
+town,SGP,"Sugpon",ILS
+town,SLT,"Sulat",SAM
+town,SUL,"Sulop",DAV
+town,SDU,"Sultan Dumalondong",LAN
+town,SKU,"Sultan Kudarat",COT
+town,SMS,"Sultan Mastura",COT
+town,SUN,"Sultan Naga Dimaporo",LAN
+town,SBR,"Sultan Sa Barongis",COT
+town,SML,"Sumilao",MIS
+town,SUM,"Sumisip",ZAB
+town,SRL,"Surallah",COT
+town,SRG,"Surigao City",SUR
+town,SUY,"Suyo",ILS
+town,TBO,"T'Boli",COT
+town,TLL,"Taal",BTG
+town,TBN,"Tabango",LEY
+town,TAI,"Tabina",ZAB
+town,TBG,"Tabogon",CEB
+town,TAT,"Tabontabon",LEY
+town,TBS,"Tabuan-Lasa",ZAB
+town,TBL,"Tabuelan",CEB
+town,TCL,"Tacloban City",LEY
+town,TDN,"Tadian",LEB
+town,TAF,"Taft",SAM
+town,TGA,"Tagana-An",SUR
+town,TGP,"Tagapul-An",SAM
+town,TGY,"Tagaytay City",CAV
+town,TGI,"Tagbilaran City",BOH
+town,TGB,"Tagbina",SUR
+town,TAG,"Tagkawayan",TAY
+town,TGO,"Tago",SUR
+town,TGL,"Tagoloan",LAN
+town,TAO,"Tagoloan",MIS
+town,TII,"Tagoloan II",LAN
+town,TGD,"Tagudin",ILS
+town,TGG,"Taguig City",MNL
+town,TLC,"Talacogon",SUR
+town,TLN,"Talaingod",DAV
+town,TAL,"Talakag",MIS
+town,TLO,"Talalora",SAM
+town,TLV,"Talavera",NEC
+town,TLY,"Talayan",COT
+town,TLB,"Talibon",BOH
+town,TLP,"Talipao",JOL
+town,TAS,"Talisay",BTG
+town,TSA,"Talisay",CMN
+town,TLI,"Talisayan",MIS
+town,TLT,"Talitay",COT
+town,TLG,"Talugtug",NEC
+town,TLU,"Talusan",ZAB
+town,TMB,"Tambulig",ZAB
+town,TAM,"Tampakan",COT
+town,TMN,"Tamparan",LAN
+town,TMP,"Tampilisan",ZAB
+town,TAU,"Tanauan",LEY
+town,TNY,"Tanay",MOR
+town,TND,"Tandubas",JOL
+town,TAA,"Tangalan",CAP
+town,TNL,"Tangcal",LAN
+town,TNB,"Tangub City",MIS
+town,TNT,"Tantangan",COT
+town,TAN,"Tanudan",CAG
+town,TNZ,"Tanza",CAV
+town,TAP,"Tapaz",CAP
+town,TPL,"Tapul",JOL
+town,TRK,"Taraka",LAN
+town,TRN,"Tarangnan",SAM
+town,TRR,"Tarragona",DAV
+town,TYS,"Tayasan",NER
+town,TYN,"Taysan",BTG
+town,TYY,"Taytay",MOR
+town,TYT,"Taytay",PAR
+town,TYG,"Tayug",PAN
+town,TYM,"Tayum",ABR
+town,TRS,"Teresa",MOR
+town,TER,"Ternate",CAV
+town,TIA,"Tiaong",TAY
+town,TIB,"Tibiao",ANT
+town,TIO,"Tigaon",CMS
+town,TIG,"Tigbao",ZAB
+town,TGN,"Tigbauan",ILO
+town,TNM,"Tinambac",CMS
+town,TIN,"Tineg",ABR
+town,TNG,"Tinglayan",CAG
+town,TIY,"Tingloy",BTG
+town,TNC,"Tinoc",NVZ
+town,TTI,"Tipo-Tipo",ZAB
+town,TIT,"Titay",ZAB
+town,TIW,"Tiwi",ALB
+town,TFO,"Tobias Fornier",ANT
+town,TOB,"Toboso",NEO
+town,TOL,"Toledo City",CEB
+town,TOA,"Tolosa",LEY
+town,TOP,"Tomas Oppus",LEY
+town,TOI,"Tondo I / II",MNL
+town,TON,"Tongkil",JOL
+town,TOR,"Torrijos",MIN
+town,TMA,"Trece Martires City",CAV
+town,TRE,"Trento",SUR
+town,TRI,"Trinidad",BOH
+town,TUA,"Tuao",CAG
+town,TBA,"Tuba",BEN
+town,TBJ,"Tubajon",SUR
+town,TUO,"Tubao",LUN
+town,TUR,"Tubaran",LAN
+town,TBY,"Tubay",SUR
+town,TUI,"Tubigon",BOH
+town,TLA,"Tublay",BEN
+town,TUB,"Tubo",ABR
+town,TBD,"Tubod",LAN
+town,TOD,"Tubod",SUR
+town,TUU,"Tubungan",ILO
+town,TBR,"Tuburan",CEB
+town,TBU,"Tuburan",ZAB
+town,TDL,"Tudela",CEB
+town,TUD,"Tudela",MIS
+town,TYA,"Tugaya",LAN
+town,TUG,"Tuguegarao City",CAG
+town,TUK,"Tukuran",ZAB
+town,TUL,"Tulunan",COT
+town,TUM,"Tumauini",ISA
+town,TNA,"Tunga",LEY
+town,TUN,"Tungawan",ZAB
+town,TUP,"Tupi",COT
+town,TRT,"Turtle Islands",JOL
+town,TUY,"Tuy",BTG
+town,UBA,"Ubay",BOH
+town,UMI,"Umingan",PAN
+town,UPU,"Ungkaya Pukan",ZAB
+town,UNI,"Unisan",TAY
+town,UPI,"Upi",COT
+town,URB,"Urbiztondo",PAN
+town,USO,"Uson",MAT
+town,UYU,"Uyugan",BTN
+town,VLD,"Valderrama",ANT
+town,VLA,"Valencia",BOH
+town,VLN,"Valencia",NER
+town,VAD,"Valladolid",NEO
+town,VLO,"Vallehermoso",NER
+town,VER,"Veruela",SUR
+town,VCA,"Victoria",TAR
+town,VIT,"Victoria",LAG
+town,VCT,"Victoria",SAM
+town,VIC,"Victoria",MIN
+town,VIG,"Viga",ALB
+town,VIL,"Villaba",LEY
+town,VIU,"Villanueva",MIS
+town,VLL,"Villareal",SAM
+town,VLS,"Villasis",PAN
+town,VLE,"Villaverde",NVZ
+town,VIA,"Villaviciosa",ABR
+town,VAI,"Vincenzo A. Sagun",ZAB
+town,VIN,"Vintar",ILN
+town,VNZ,"Vinzons",CMN
+town,VIR,"Virac",ALB
+town,WAO,"Wao",LAN
+town,ZMB,"Zamboanga City",ZAB
+town,ZMA,"Zamboanguita",NER
+town,ZAR,"Zaragoza",NEC
+town,ZRR,"Zarraga",ILO
+town,ZUM,"Zumarraga",SAM
+trade_node,PMN,"Manila",hub
+trade_node,PIO,"Iloílo",hub
+trade_node,PCB,"Cebú",hub
+trade_node,PZM,"Zamboanga",hub
+trade_node,PSL,"Sual",open
+trade_node,PLZ,"Legazpi",open
+trade_node,PPA,"Aparri",coast
+trade_node,PVG,"Vigán",coast
+trade_node,PSN,"San Fernando",coast
+trade_node,PBT,"Batangas",coast
+trade_node,PTY,"Tayabas",coast
+trade_node,PCL,"Calapan",coast
+trade_node,PRM,"Romblón",coast
+trade_node,PMS,"Masbate",coast
+trade_node,PCP,"Capiz",coast
+trade_node,PNU,"Antique",coast
+trade_node,PBC,"Bacolod",coast
+trade_node,PDM,"Dumaguete",coast
+trade_node,PTB,"Tagbilarán",coast
+trade_node,PCY,"Calbayog",coast
+trade_node,PTC,"Tacloban",coast
+trade_node,PMI,"Maasín",coast
+trade_node,PSR,"Surigao",coast
+trade_node,PBN,"Butuan",coast
+trade_node,PCG,"Cagayán de Misamis",coast
+trade_node,PLB,"Iligan",coast
+trade_node,PDP,"Dapitan",coast
+trade_node,PCT,"Cotabato",coast
+trade_node,PDV,"Davao",coast
+trade_node,PJL,"Joló",coast
+trade_node,PPT,"Puerto Princesa",coast
+trade_node,HKG,"Hong Kong",foreign
+trade_node,SGC,"Singapur",foreign
+trade_node,SDK,"Sandakán",foreign
+trade_node,JPN,"Japón",overseas
+trade_node,USA,"América",overseas
+trade_node,NEI,"Indias Neerlandesas",overseas
+trade_node,EPA,"España",overseas
+trade_route,PMN-PSL,"Manila - Sual",steamer trunk
+trade_route,PMN-PBT,"Manila - Batangas",steamer trunk
+trade_route,PMN-PIO,"Manila - Iloílo",steamer trunk
+trade_route,PIO-PCB,"Iloílo - Cebú",steamer trunk
+trade_route,PMN-PLZ,"Manila - Legazpi",steamer trunk
+trade_route,PCB-PCG,"Cebú - Cagayán de Misamis",steamer trunk
+trade_route,PCG-PZM,"Cagayán de Misamis - Zamboanga",steamer trunk
+trade_route,PZM-PJL,"Zamboanga - Joló",steamer trunk
+trade_route,PCB-PTC,"Cebú - Tacloban",steamer trunk
+trade_route,PSL-PSN,"Sual - San Fernando",coastwise feeder
+trade_route,PSN-PVG,"San Fernando - Vigán",coastwise feeder
+trade_route,PVG-PPA,"Vigán - Aparri",coastwise feeder
+trade_route,PBT-PTY,"Batangas - Tayabas",coastwise feeder
+trade_route,PBT-PCL,"Batangas - Calapan",coastwise feeder
+trade_route,PCL-PRM,"Calapan - Romblón",coastwise feeder
+trade_route,PRM-PCP,"Romblón - Capiz",coastwise feeder
+trade_route,PCP-PIO,"Capiz - Iloílo",coastwise feeder
+trade_route,PIO-PBC,"Iloílo - Bacolod",coastwise feeder
+trade_route,PIO-PNU,"Iloílo - Antique",coastwise feeder
+trade_route,PBC-PCB,"Bacolod - Cebú",coastwise feeder
+trade_route,PCB-PTB,"Cebú - Tagbilarán",coastwise feeder
+trade_route,PTB-PDM,"Tagbilarán - Dumaguete",coastwise feeder
+trade_route,PDM-PDP,"Dumaguete - Dapitan",coastwise feeder
+trade_route,PDP-PZM,"Dapitan - Zamboanga",coastwise feeder
+trade_route,PCG-PLB,"Cagayán de Misamis - Iligan",coastwise feeder
+trade_route,PCB-PMI,"Cebú - Maasín",coastwise feeder
+trade_route,PMI-PTC,"Maasín - Tacloban",coastwise feeder
+trade_route,PTC-PCY,"Tacloban - Calbayog",coastwise feeder
+trade_route,PCY-PMS,"Calbayog - Masbate",coastwise feeder
+trade_route,PMS-PLZ,"Masbate - Legazpi",coastwise feeder
+trade_route,PTC-PSR,"Tacloban - Surigao",coastwise feeder
+trade_route,PSR-PBN,"Surigao - Butuan",coastwise feeder
+trade_route,PSR-PDV,"Surigao - Davao",coastwise feeder
+trade_route,PZM-PCT,"Zamboanga - Cotabato",coastwise feeder
+trade_route,PCT-PDV,"Cotabato - Davao",coastwise feeder
+trade_route,PIO-PPT,"Iloílo - Puerto Princesa",coastwise feeder
+trade_route,PMN-PPT,"Manila - Puerto Princesa",coastwise feeder
+trade_route,PMN-HKG,"Manila - Hong Kong",overseas
+trade_route,PMN-SGC,"Manila - Singapur",overseas
+trade_route,PJL-SDK,"Joló - Sandakán",overseas
+trade_route,PPA-JPN,"Aparri - Japón",overseas
+trade_route,PLZ-USA,"Legazpi - América",overseas
+trade_route,PJL-NEI,"Joló - Indias Neerlandesas",overseas
+trade_route,SGC-EPA,"Singapur - España",overseas

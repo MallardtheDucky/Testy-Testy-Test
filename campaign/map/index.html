@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>REPUBLIKA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Cormorant+SC:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>if(/[?&]embed/.test(location.search))document.documentElement.classList.add("embed")</script>
+</head><body>
+<main class="plate">
+ <section class="stage">
+  <svg id="map" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Map of the Philippines">
+   <defs>
+    <pattern id="landtex" patternUnits="userSpaceOnUse" width="3072" height="3072"><image href="assets/land.jpg" width="3072" height="3072"/></pattern>
+   </defs>
+   <rect x="-30000" y="-30000" width="70000" height="70000" fill="#e3d09b"/>
+   <g id="sea"></g><g id="lanes"></g><g id="land" class="lv"></g><g id="sub" class="lv"></g><g id="town" class="lv"></g><g id="labs"></g>
+  </svg>
+  <div class="paper" aria-hidden="true"></div>
+  <header class="hud"><h1>REPUBLIKA</h1><p>The Philippine Revolution, 1892</p></header>
+  <div class="sel" id="sel"></div>
+  <div class="hint" id="hint"></div>
+  <button id="tagbtn" aria-pressed="false">Tags: off</button>
+  <div class="scale" id="scale"><b></b><span></span></div>
+  <div class="tip" id="tip" hidden></div>
+ </section>
+</main>
+<script src="data.js"></script>
+<script src="neighbors.js"></script>
+<script src="trade.js"></script>
+<script src="tags.js"></script>
+<script src="country.js"></script>
+<script src="app.js"></script>
+<script>addEventListener("keydown",function(e){if(e.code==="Space"&&parent!==window){e.preventDefault();parent.postMessage({republika:"advance"},"*")}})</script>
+</body></html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>REPUBLIKA — Campaign</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Pinyon+Script&family=Italianno&family=La+Belle+Aurore&family=Special+Elite&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=UnifrakturCook:wght@700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/layout.css">
+<link rel="stylesheet" href="css/components.css">
+<link rel="stylesheet" href="css/screens.css">
+</head>
+<body>
+<div id="arrive" class="arrive" hidden><div class="cx"><small>Manila</small><b>July 1892</b></div></div>
+<main id="campaign" class="campaign">
+
+  <!-- MAP: the Philippines map (map/) is embedded in #map-mount as an iframe. See README. -->
+  <section id="map-area" class="map-area" aria-label="Map">
+    <div id="map-mount" class="map-mount"><iframe id="map-frame" class="map-frame" src="map/index.html?embed=1" title="Map of the Philippines, 1892"></iframe></div>
+  </section>
+
+  <!-- Top left: emblem + indicators -->
+  <header class="hud-left">
+    <div class="emblem" aria-hidden="true"><img src="assets/emblem.png" alt=""></div>
+    <div class="indicators">
+      <span class="ind" title="Personal funds"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M9.5 15.5V8.5h3a2 2 0 0 1 0 4h-3"/></svg><b id="funds">₱1,200</b></span>
+      <span class="sep"></span>
+      <span class="ind" title="Reputation"><svg viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.500-7-10V6z"/></svg><b id="rep">35</b></span>
+    </div>
+  </header>
+
+  <!-- Top center: date -->
+  <div class="date-plaque"><div id="date" class="date">July 1893</div><div id="turn" class="turn">Turn 7</div></div>
+
+  <!-- Top right: news + nav -->
+  <button id="news-btn" class="news-btn" aria-label="Open briefing"><b id="news-count">1</b><span>News</span></button>
+  <nav class="rail" aria-label="Main navigation">
+    <button class="nav-btn" data-panel="letters" title="Letters"><svg viewBox="0 0 24 24"><rect x="3.500" y="5.500" width="17" height="13" rx="1.500"/><path d="M4 7l8 6 8-6"/></svg><i class="badge" id="b-letters"></i></button>
+    <button class="nav-btn" data-panel="journal" title="Journal"><svg viewBox="0 0 24 24"><rect x="5.500" y="3.500" width="13" height="17" rx="1.500"/><path d="M9 9h6M9 13h6"/></svg><i class="badge" id="b-journal"></i></button>
+    <button class="nav-btn" data-panel="newspaper" title="Newspaper"><svg viewBox="0 0 24 24"><path d="M4 5.500h12v13H6a2 2 0 0 1-2-2zM16 9h4v7.500a2 2 0 0 1-2 2"/><path d="M7 9h6M7 12h6M7 15h4"/></svg><i class="badge" id="b-newspaper"></i></button>
+    <button class="nav-btn" data-panel="people" title="People &amp; Connections"><svg viewBox="0 0 24 24"><circle cx="9" cy="8.500" r="3"/><circle cx="17" cy="9.500" r="2.300"/><path d="M3.500 19c.5-4 3-6 5.500-6s5 2 5.500 6M15 14c3 0 5 1.800 5.500 5"/></svg><i class="badge" id="b-people"></i></button>
+    <button class="nav-btn" data-panel="politics" title="Politics"><svg viewBox="0 0 24 24"><path d="M3 9l9-5 9 5zM5 10v7M9 10v7M15 10v7M19 10v7M3 20h18M4 17.500h16"/></svg><i class="badge" id="b-politics"></i></button>
+    <button class="nav-btn" data-panel="standing" title="Career &amp; Personal Standing"><svg viewBox="0 0 24 24"><rect x="3.500" y="8" width="17" height="11" rx="1.500"/><path d="M9 8V6h6v2M3.500 13h17"/></svg><i class="badge" id="b-standing"></i></button>
+  </nav>
+
+  <!-- Briefing (modest, toggled by News) -->
+  <aside id="briefing" class="briefing" hidden>
+    <div class="panel-head"><h2>Briefing</h2><button class="x" data-close="briefing" aria-label="Close">×</button></div>
+    <ul id="briefing-list" class="briefing-list"></ul>
+  </aside>
+
+  <!-- Bottom left: character -->
+  <button id="character" class="character" title="Your character">
+    <span class="portrait"><svg viewBox="0 0 64 64"><circle cx="32" cy="23" r="10"/><path d="M12 54c2-12 10-18 20-18s18 6 20 18"/></svg></span>
+    <span class="cname" id="cname">Your Character</span>
+    <span class="cyear" id="cyear">1893</span>
+  </button>
+
+  <div class="wordmark">Republika</div>
+
+  <!-- Bottom right: turn control -->
+  <div id="turn-ctrl" class="turn-ctrl">
+    <div id="confirm" class="confirm" hidden>
+      <p id="confirm-text"></p>
+      <div><button id="confirm-go" class="c-go">Advance anyway</button><button id="confirm-stay" class="c-stay">Stay</button></div>
+    </div>
+    <div class="turn-row">
+      <div class="turn-plaque"><small>Advance to</small><span id="advance-label">August 1893</span></div>
+      <button id="advance" class="seal" aria-label="Advance to next month" title="Advance month (Space)">
+        <svg viewBox="0 0 24 24"><path d="M7 3.500h10M7 20.500h10M8 3.500c0 5 8 5 8 8.500s-8 3.500-8 8.500M16 3.500c0 5-8 5-8 8.500s8 3.500 8 8.500"/></svg>
+      </button>
+    </div>
+  </div>
+  <div id="passage" class="passage" hidden><span class="p-small">Time passes</span><span id="passage-date" class="p-date"></span></div>
+
+  <!-- Full-screen views: Letters, Journal -->
+  <div id="screen" class="screen" hidden>
+    <button id="screen-close" class="close-gold" aria-label="Close">×</button>
+    <div id="screen-inner"></div>
+  </div>
+
+  <!-- Placeholder modal for other panels -->
+  <div id="modal" class="modal" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <div class="panel-head"><h2 id="modal-title"></h2><button class="x" data-close="modal" aria-label="Close">×</button></div>
+      <div id="modal-body" class="modal-body"></div>
+    </div>
+  </div>
+</main>
+<script src="js/data.js"></script>
+<script src="js/events.js"></script>
+<script src="js/news.js"></script>
+<script src="js/people.js"></script>
+<script src="js/politics-data.js"></script>
+<script src="js/politics.js"></script>
+<script src="js/standing-data.js"></script>
+<script src="js/standing.js"></script>
+<script src="js/screens.js"></script>
+<script src="js/app.js"></script>
+<script src="js/arrive.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+*{box-sizing:border-box;margin:0}
+html,body{height:100%;overflow:hidden;background:#0c0806;color:var(--bone);font-family:var(--body)}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+.campaign{position:relative;width:100%;height:100%;overflow:hidden;border-top:4px solid var(--ink)}
+
+/* Map slot fills the whole screen; HUD floats above it. */
+.map-area{position:absolute;inset:0;
+  background:radial-gradient(ellipse at 50% 50%,var(--map1) 0%,var(--map2) 55%,var(--map3) 100%),var(--map2)}
+.map-mount{position:absolute;inset:0;display:grid;place-items:center}
+.map-placeholder{font-style:italic;font-size:22px;letter-spacing:.2em;color:rgba(70,75,50,.75)}
+
+.hud-left{position:absolute;top:12px;left:10px;display:flex;align-items:center;z-index:5}
+.date-plaque{position:absolute;top:4px;left:50%;transform:translateX(-50%);z-index:5;
+  min-width:172px;padding:10px 22px 8px;text-align:center;background:linear-gradient(var(--ink2),var(--ink));
+  border:var(--edge);border-top:0;box-shadow:var(--shadow)}
+.news-btn{position:absolute;top:22px;right:12px;z-index:6}
+.rail{position:absolute;top:110px;right:10px;z-index:5;display:flex;flex-direction:column;gap:12px;padding:12px 9px;
+  background:linear-gradient(90deg,var(--ink),var(--ink2));border:var(--edge);border-radius:40px;box-shadow:var(--shadow)}
+.briefing{position:absolute;top:100px;right:104px;width:300px;z-index:6}
+.character{position:absolute;left:10px;bottom:12px;z-index:5}
+.wordmark{position:absolute;bottom:14px;left:50%;transform:translateX(-50%);z-index:4;
+  font-family:var(--disp);font-size:14px;letter-spacing:.55em;text-transform:uppercase;color:rgba(60,40,25,.85);pointer-events:none}
+.turn-ctrl{position:absolute;right:12px;bottom:12px;z-index:5;display:grid;gap:8px;justify-items:end}
+.passage{position:absolute;inset:0;z-index:30;display:grid;place-content:center;gap:8px;text-align:center;background:rgba(12,8,6,.88)}
+.passage[hidden]{display:none}
+
+.modal{position:absolute;inset:0;z-index:20;display:grid;place-items:center;background:rgba(10,6,4,.6)}
+.modal[hidden],.briefing[hidden]{display:none}
+
+@media (max-width:760px){
+  .rail{top:96px;right:6px;gap:8px;padding:8px 6px}
+  .briefing{right:6px;left:6px;width:auto;top:auto;bottom:90px}
+  .date-plaque{min-width:130px;padding:8px 12px}
+  .character{transform:scale(.8);transform-origin:left bottom}
+  .wordmark{display:none}
+  .turn-plaque{padding:8px 14px 8px 12px}
+}
+
+.map-frame{position:absolute;inset:0;width:100%;height:100%;border:0;background:#e3d09b}
+
+.arrive{position:fixed;inset:0;z-index:60;background:#0c0806;display:grid;place-items:center;text-align:center;font-family:var(--disp);color:var(--gold);opacity:1;transition:opacity 1.6s ease}
+.arrive[hidden]{display:none}.arrive.out{opacity:0;pointer-events:none}
+.arrive small{display:block;letter-spacing:.5em;text-transform:uppercase;font-size:.95rem;color:var(--gold-dim)}
+.arrive b{display:block;font-size:clamp(2rem,6vw,4rem);letter-spacing:.2em;margin-top:.35em;font-weight:500;text-transform:uppercase}
+.portrait{overflow:hidden}.portrait img{width:100%;height:100%;object-fit:cover;object-position:top}

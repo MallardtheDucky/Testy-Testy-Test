@@ -1,0 +1,83 @@
+svg{fill:none;stroke:var(--gold);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.emblem{width:84px;height:85px;display:grid;place-items:center;z-index:2;filter:drop-shadow(0 3px 5px rgba(0,0,0,.55))}
+.emblem img{display:block;width:100%;height:100%;object-fit:contain}
+.indicators{display:flex;align-items:center;gap:14px;height:42px;margin-left:-14px;padding:0 20px 0 28px;
+  background:linear-gradient(var(--ink2),var(--ink));border:var(--edge);border-radius:0 22px 22px 0;box-shadow:var(--shadow)}
+.ind{display:flex;align-items:center;gap:8px}
+.ind svg{width:17px;height:17px;stroke:var(--gold-dim)}
+.ind b{font-family:var(--disp);font-weight:500;font-size:17px;color:var(--bone)}
+.sep{width:1px;height:22px;background:rgba(210,176,104,.3)}
+
+.date{font-family:var(--disp);font-weight:500;font-size:20px;letter-spacing:.08em;text-transform:uppercase}
+.turn{font-style:italic;font-size:14px;color:var(--gold)}
+
+.news-btn{width:74px;height:74px;border-radius:50%;display:grid;align-content:center;justify-items:center;
+  background:radial-gradient(var(--ink3),var(--ink));border:3px solid var(--gold);box-shadow:0 0 0 2px var(--ink),var(--shadow)}
+.news-btn b{font-family:var(--disp);font-size:22px;line-height:1}
+.news-btn span{font-family:var(--disp);font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.news-btn:hover,.nav-btn:hover{border-color:var(--gold2);filter:brightness(1.15)}
+
+.nav-btn{position:relative;width:60px;height:60px;border-radius:50%;display:grid;place-items:center;
+  background:radial-gradient(var(--ink3),var(--ink));border:2px solid var(--gold-dim)}
+.nav-btn svg{width:28px;height:28px}
+.nav-btn.active{border-color:var(--gold2);box-shadow:0 0 10px rgba(241,220,159,.35)}
+.badge{position:absolute;top:-4px;right:-4px;min-width:20px;height:20px;padding:0 5px;border-radius:10px;display:none;
+  place-items:center;font:700 11px var(--disp);font-style:normal;color:var(--bone);background:var(--red2);border:1px solid var(--gold)}
+.badge.on{display:grid}
+
+.panel-head{display:flex;justify-content:space-between;align-items:center;padding:10px 16px;border-bottom:var(--edge)}
+.panel-head h2{font-family:var(--disp);font-weight:500;font-size:16px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold2)}
+.x{font-size:24px;line-height:1;color:var(--gold)}
+.briefing,.modal-card{background:linear-gradient(var(--ink2),var(--ink));border:var(--edge);box-shadow:var(--shadow)}
+.briefing-list{list-style:none;padding:6px 16px 12px;max-height:46vh;overflow:auto}
+.briefing-list li{padding:9px 0;border-bottom:1px solid rgba(210,176,104,.18);font-size:17px;line-height:1.3}
+.briefing-list li:last-child{border:0}
+.briefing-list em{display:block;font-size:13px;color:var(--gold);letter-spacing:.06em}
+
+.character{width:165px;padding:8px 8px 6px;text-align:center;background:var(--ink);border:2px solid var(--gold-dim);box-shadow:var(--shadow);display:grid;gap:4px}
+.portrait{display:grid;place-items:center;height:160px;background:linear-gradient(var(--ink3),var(--ink));border:1px solid rgba(210,176,104,.3)}
+.portrait svg{width:70px;stroke:var(--gold-dim);stroke-width:2.5}
+.cname{font-family:var(--disp);font-size:14px;letter-spacing:.1em;text-transform:uppercase;padding-top:4px}
+.cyear{font-size:13px;color:var(--gold)}
+.character:hover{border-color:var(--gold)}
+
+
+.modal-card{width:min(620px,92vw);max-height:80vh;display:flex;flex-direction:column}
+.modal-body{padding:16px 20px 20px;overflow:auto;font-size:18px;line-height:1.4}
+.modal-body .note{font-style:italic;color:var(--gold);margin-bottom:12px;font-size:16px}
+.item{padding:10px 0;border-bottom:1px solid rgba(210,176,104,.18)}
+.item:last-child{border:0}
+.item h3{font-family:var(--disp);font-weight:500;font-size:14px;letter-spacing:.08em;color:var(--gold2)}
+.item p{font-size:16px;opacity:.9}
+.stat{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid rgba(210,176,104,.18)}
+.stat b{font-family:var(--disp);font-weight:500}
+
+/* Turn control: plaque + wax-style seal (month strip removed) */
+.turn-row{display:flex;align-items:center}
+.turn-plaque{display:grid;gap:1px;padding:9px 56px 9px 20px;margin-right:-44px;text-align:left;
+  background:linear-gradient(var(--ink2),var(--ink));border:var(--edge);box-shadow:var(--shadow)}
+.turn-plaque small{font:500 10px var(--disp);letter-spacing:.3em;text-transform:uppercase;color:var(--gold)}
+.turn-plaque span{font:500 18px var(--disp);letter-spacing:.06em;text-transform:uppercase}
+.seal{position:relative;z-index:2;width:88px;height:88px;border-radius:50%;display:grid;place-items:center;
+  background:radial-gradient(circle at 35% 30%,var(--red2),var(--red) 70%);border:3px solid var(--gold);
+  box-shadow:0 0 0 2px var(--ink),var(--shadow);transition:transform .15s,box-shadow .25s}
+.seal::before{content:"";position:absolute;inset:7px;border-radius:50%;border:1px dashed rgba(241,220,159,.55)}
+.seal svg{width:34px;height:34px;stroke:var(--gold2);stroke-width:1.6;transition:transform .8s}
+.seal:hover{box-shadow:0 0 0 2px var(--ink),0 0 18px rgba(241,220,159,.45),var(--shadow)}
+.seal:hover svg{transform:rotate(180deg)}
+.seal:active,.seal.pressing{transform:scale(.94)}
+.seal:disabled{cursor:default}
+.seal.pressing svg{transform:rotate(360deg)}
+.confirm{width:300px;padding:12px 14px;background:linear-gradient(var(--ink2),var(--ink));border:var(--edge);box-shadow:var(--shadow);font-size:17px;line-height:1.3}
+.confirm[hidden]{display:none}
+.confirm div{display:flex;gap:8px;margin-top:10px}
+.confirm button{flex:1;padding:7px 0;font:500 12px var(--disp);letter-spacing:.12em;text-transform:uppercase;border:1px solid var(--gold-dim)}
+.c-go{background:var(--red);color:var(--bone)}.c-stay{color:var(--gold)}
+.confirm button:hover{filter:brightness(1.2)}
+.p-small{font:500 12px var(--disp);letter-spacing:.5em;text-transform:uppercase;color:var(--gold)}
+.p-date{font:500 44px var(--disp);letter-spacing:.12em;text-transform:uppercase;color:var(--bone)}
+.passage{animation:pfade 1.5s ease both}
+@keyframes pfade{0%{opacity:0}25%,70%{opacity:1}100%{opacity:0}}
+.date-plaque.flip .date,.date-plaque.flip .turn{animation:dflip .6s}
+@keyframes dflip{0%{opacity:0;transform:translateY(-8px)}100%{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.passage{animation:none}.seal svg{transition:none}}

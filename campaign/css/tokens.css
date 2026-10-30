@@ -1,0 +1,11 @@
+/* Design tokens — palette and fonts follow the opening (Cinzel, gold on near-black, oxblood red). */
+:root{
+  --ink:#1a110d; --ink2:#2a1d16; --ink3:#3a2a20;
+  --gold:#d2b068; --gold2:#f1dc9f; --gold-dim:#8f7845;
+  --bone:#f0e4c2; --red:#7d1f19; --red2:#a92f26;
+  --map1:#b6bd96; --map2:#a2a883; --map3:#868b6c;
+  --disp:"Cinzel","Trajan Pro",Georgia,serif;
+  --body:"Cormorant Garamond",Georgia,"Times New Roman",serif;
+  --edge:1px solid rgba(210,176,104,.55);
+  --shadow:0 4px 14px rgba(0,0,0,.45);
+}
